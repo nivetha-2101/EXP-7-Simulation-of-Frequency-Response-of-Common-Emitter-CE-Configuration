@@ -12,6 +12,8 @@ Procedure
 6.	Click on the Run option → Advanced → select AC Analysis → enter the required amplitude, time delay and step-time values. 
 7.	Click on the Run option → open the Simulation Window → place the probe to obtain the output graph. 
 Circuit Diagram
+<img width="1562" height="437" alt="Screenshot 2026-11-26 212857" src="https://github.com/user-attachments/assets/e7bec047-86e2-4f8a-be22-575ca3ead7fc" />
+
 
 
 
@@ -19,6 +21,8 @@ Circuit Diagram
 
 The circuit is designed in LTspice as shown in the record.
 Observation / Output
+<img width="1636" height="482" alt="Screenshot 2026-11-26 212924" src="https://github.com/user-attachments/assets/8929f85b-1ce7-4644-aa32-9173ec325921" />
+
 
 
 
